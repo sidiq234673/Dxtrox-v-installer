@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /DX_Amalser/Dockerfile
+run:
+   worker: npm start
